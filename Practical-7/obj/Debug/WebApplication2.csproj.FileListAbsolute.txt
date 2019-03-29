@@ -1,0 +1,4 @@
+E:\vs project\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\vs project\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\vs project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\vs project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
