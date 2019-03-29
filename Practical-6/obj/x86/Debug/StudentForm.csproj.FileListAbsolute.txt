@@ -1,0 +1,8 @@
+E:\vs project\StudentForm\StudentForm\obj\x86\Debug\StudentForm.Form1.resources
+E:\vs project\StudentForm\StudentForm\obj\x86\Debug\StudentForm.Properties.Resources.resources
+E:\vs project\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csproj.GenerateResource.Cache
+E:\vs project\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+E:\vs project\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+E:\vs project\StudentForm\StudentForm\obj\x86\Debug\StudentForm.exe
+E:\vs project\StudentForm\StudentForm\obj\x86\Debug\StudentForm.pdb
+E:\vs project\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csprojResolveAssemblyReference.cache
