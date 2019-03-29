@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1 {
+            width: 97px;
+            height: 141px;
+        }
+        .style2
+        {
+            width: 97px;
+            height: 105px;
+        }
+        .style3
+        {
+            width: 97px;
+            height: 99px;
+        }
+        .style4
+        {
+            width: 9px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table height="50%" width="50%">
+        <tr>
+            <td class="style2" colspan="2">
+                <asp:Label ID="lblheader" runat="server" Text="Header"></asp:Label>
+            </td>
+        </tr>
+        <tr>
+            <td class="style4">
+                <asp:Button ID="btnsearch" runat="server" Text="search" />
+                <asp:TextBox ID="txtsearch" runat="server"></asp:TextBox>
+            </td>
+            <td class="style3">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    content page
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td class="style1" colspan="2">
+                <asp:Label ID="lblfooter" runat="server" Text="Footer"></asp:Label>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>
