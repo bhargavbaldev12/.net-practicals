@@ -1,4 +1,0 @@
-F:\16ce028\WebApplication7\WebApplication1\bin\WebApplication1.dll
-F:\16ce028\WebApplication7\WebApplication1\bin\WebApplication1.pdb
-F:\16ce028\WebApplication7\WebApplication1\obj\Debug\WebApplication1.dll
-F:\16ce028\WebApplication7\WebApplication1\obj\Debug\WebApplication1.pdb
